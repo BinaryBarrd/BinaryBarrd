@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+BinaryBarrd!;AI+%7C+Autonomous+Systems+%7C+Research+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+BinaryBarrd!)](https://git.io/typing-svg)
 
 <!--
 **BinaryBarrd/BinaryBarrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
