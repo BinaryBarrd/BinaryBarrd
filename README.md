@@ -15,8 +15,8 @@ Currently exploring → `Edge AI` `ROS` `Multimodal Sensor Fusion` `Control Syst
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-Send-grey?logo=gmail)](mailto:your.email@domain.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View-blue?logo=linkedin)](https://linkedin.com/in/binarybarrd)  
+[![Email](https://img.shields.io/badge/Email-Send-grey?logo=gmail)](mailto:aditya8.workspace@gmail.com)  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--5408--3434-green?logo=orcid)](https://orcid.org/0009-0008-5408-3434)
 
 <!-- ---
