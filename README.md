@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+BinaryBarrd!)](https://git.io/typing-svg)
 # 👋 Hi, I'm BinaryBarrd!
 
-🎓 Computer Science Undergraduate @ BITS Pilani
-🧪 Research Intern @ IIT (BHU)
+🎓 Computer Science Undergraduate @ BITS Pilani <br>
+🧪 Research Intern @ IIT (BHU) <br>
 🚀 Passionate about ML, Ethical Use of AI and Autonomous Systems
 
 <!-- ---
