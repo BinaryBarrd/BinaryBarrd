@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+BinaryBarrd!)](https://git.io/typing-svg)
-# 👋 Hi, I'm BinaryBarrd!
+# 👋 Myself Aditya Bansal 
 
 🎓 Computer Science Undergraduate @ BITS Pilani <br>
 🧪 Research Intern @ IIT (BHU) <br>
