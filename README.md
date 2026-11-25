@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/binarybarrd"><img src="https://img.shields.io/badge/LinkedIn-binarybarrd-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/BinaryBarrd"><img src="https://img.shields.io/badge/X-@BinaryBarrd-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-  <a href="mailto:aditya8.workspace@gmail.com"><img src="https://img.shields.io/badge/Email-aditya8.workspace-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://orcid.org/0009-0008-5408-3434"><img src="https://img.shields.io/badge/ORCID-0009--0008--5408--3434-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 </p>
 
