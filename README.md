@@ -6,7 +6,9 @@
   <a href="https://orcid.org/0009-0008-5408-3434"><img src="https://img.shields.io/badge/ORCID-0009--0008--5408--3434-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 </p>
 
-I'm an undergraduate **AI safety researcher** at BITS Pilani. I study how AI systems fail under real threats, not just benchmark setups, and what it would take for people to trust them. Day to day that means backdoors, mechanistic interpretability and auditing models that are already deployed. I also build production voice agents at a stealth AI startup.
+I'm an undergrad at BITS Pilani trying to figure out how AI systems fail when someone is actually trying to break them: how they fail, why they fail, and whether they deserve the trust people put in them. Benchmarks only tell part of that story, so I go looking for the rest. I implement backdoor attacks, poke around inside models with mechanistic interpretability, and audit AI systems and web services that are already out in the real world.
+
+Alongside that, I work at a startup building production voice agents and pipelines. Next, I want to point the same lens at them: where voice pipelines break, and what it takes to make them safe.
 
 ### Right now
 
